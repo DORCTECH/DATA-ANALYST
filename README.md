@@ -13,4 +13,5 @@ It explore trends,profit margins
 -How to sumarize KPIs using pivot tables
 -How to visualize insight in excel
 
-##Preview
+## Preview
+https://github.com/DORCTECH/DATA-ANALYST/blob/main/Screenshot%202026-05-07%20113245.png
