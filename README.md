@@ -15,3 +15,4 @@ It explore trends,profit margins
 
 ## Preview
 https://github.com/DORCTECH/DATA-ANALYST/blob/main/Screenshot%202026-05-07%20113245.png
+https://github.com/DORCTECH/DATA-ANALYST/blob/main/Screenshot%202026-05-09%20205653.png
