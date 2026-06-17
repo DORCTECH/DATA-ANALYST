@@ -9,7 +9,7 @@ This project analyzes the total sales performance per salesperson,total unit sol
 It explore trends,profit margins
 
 ## What i learned
--How to clean messy excel data using formulas
+-How to clean messy  data using formulas
 -How to sumarize KPIs using pivot tables
 -How to visualize insight in excel
 
